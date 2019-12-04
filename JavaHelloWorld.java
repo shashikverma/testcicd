@@ -4,7 +4,6 @@ public class JavaHelloWorld
    {
      System.out.println("Hello World");
      System.out.println("Java CI example");
-     System.out.println("Updated for docker build failure2");
-     System.out.println("Updated for System package error");
+     System.out.println("Updated for push without credential);
    }
 }
